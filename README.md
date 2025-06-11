@@ -17,7 +17,7 @@ Note: Chat and product listing applications are not allowed.
 * You are not required to come to the classroom during the project. 
 * I'm available to assist you every day, during regular class hours, via Teams, from 10:00 AM to 12:30 PM, and from 2:00 PM to 3:00 PM, except for Sunday. 
 * Students are expected to be available during class hours (above) on teams to receive occasional calls and check on their progress.
-* A daily push is required to track your code contribution and performance. If you miss a push that will affect your final grade.
+* A daily push (by the end of day) is required to track your code contribution and performance. Each push must contain commits showing your progress (by feature). Your final grade will be affected if you miss a push or your push does not include proper commits.
       
 ### Technical Evaluation
 The last push should be performed before Tuesday 9:00 pm. Teams are expected to submit a screen recorded demo that covers the project idea, and how to use the system. Do not show or explain your code patterns, code evaluations are done separately. Please send me the video URL on Teams. 
